@@ -27,7 +27,7 @@ I enjoy turning ideas into real-world web apps using modern technologies.
 
 | Project        | Description |
 |----------------|-------------|
-| 🌍 [**Wanderlust**](https://github.com/your-username/wanderlust) | A dynamic travel booking platform built with the MERN stack |
+| 🌍 [**Wanderlust**](https://github.com/prathmesh-git/wanderlust) | A dynamic travel booking platform built with the MERN stack |
 | 🛠️ [**MCP Inspector**](https://github.com/prathmesh-git/mcp-inspector) | Utility web app to test and validate MCP (Model Context Protocol) servers |
 | 🌌 [**Solar System**](https://github.com/prathmesh-git/solar-system) | Animated visual simulation of planets using HTML, CSS & JS |
 | ✅ [**SyncFlow**](https://github.com/prathmesh-git/syncflow) | A collaborative task manager with drag-and-drop and smart assignment |
