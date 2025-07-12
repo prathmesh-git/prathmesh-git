@@ -3,7 +3,6 @@
 I'm a Computer Science student passionate about full-stack web development.  
 I enjoy turning ideas into real-world web apps using modern technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=prathmesh-git&label=Profile%20Views&color=0e75b6&style=flat)
 ![Tech Stack](https://img.shields.io/badge/MERN-Stack-blueviolet)
 ![Learning](https://img.shields.io/badge/Learning-React_Advanced-yellowgreen)
 
@@ -39,10 +38,6 @@ I enjoy turning ideas into real-world web apps using modern technologies.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmesh-git&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prathmesh-git&theme=radical" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-git&layout=compact&theme=radical" width="48%" />
