@@ -3,7 +3,7 @@
 I'm a Computer Science student passionate about full-stack web development.  
 I enjoy turning ideas into real-world web apps using modern technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=prathmesh-git&label=Profile%20Views&color=0e75b6&style=flat)
 ![Tech Stack](https://img.shields.io/badge/MERN-Stack-blueviolet)
 ![Learning](https://img.shields.io/badge/Learning-React_Advanced-yellowgreen)
 
