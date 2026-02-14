@@ -44,9 +44,10 @@ Git • GitHub • Postman • VS Code
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh-git&show_icons=true&theme=radical)
+![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmesh-git&show_icons=true&theme=radical)
+
 
 ---
 
