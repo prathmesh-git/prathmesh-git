@@ -134,7 +134,7 @@ My recent work spans real-time collaborative apps with Socket.IO, AI-powered med
 
 **B.Tech — Computer Science & Engineering**  
 GH Raisoni University, Amravati · 2022 – 2026  
-CGPA: **7.77 / 10**
+CGPA: **7.89 / 10**
 
 ---
 
