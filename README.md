@@ -163,8 +163,7 @@ CGPA: **7.91 / 10**
 
 ## Currently Learning
 
-- Advanced React patterns and state management
-- System design and scalable backend architecture
+
 - DevOps & cloud computing fundamentals
 - Data Structures & Algorithms in Java
 
