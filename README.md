@@ -7,9 +7,9 @@ Nagpur, India · [LinkedIn](https://www.linkedin.com/in/prathmesh-pimpalshende/)
 
 ## About
 
-Final-year Computer Science student at GH Raisoni University (2022–2026), building full-stack web applications that go beyond CRUD. I work across the MERN stack, integrate AI APIs into production workflows, and ship projects with real deployments — not just local demos. I'm also expanding into DevOps, cloud, and Linux system administration.
+Final-year Computer Science student at GH Raisoni University (2022–2026), transitioning into Cloud & DevOps after building full-stack web applications that go beyond CRUD. I've worked across the MERN stack, integrated AI APIs into production workflows, and shipped projects with real deployments — not just local demos. I'm now building my Linux administration foundations and currently learning AWS.
 
-My recent work spans real-time collaborative apps with Socket.IO, AI-powered media analysis tools using LLMs and Whisper, containerized deployments via Docker and Render, and Bash-based Linux administration tooling. I care about architecture, clean code, and building things that actually solve problems.
+My recent work spans AI-powered media analysis tools using LLMs and Whisper, containerized deployments via Docker and Render, and Bash-based Linux administration tooling. I care about architecture, clean code, and building things that actually solve problems.
 
 ---
 
