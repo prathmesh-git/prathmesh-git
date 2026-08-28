@@ -70,19 +70,6 @@ My recent work spans real-time collaborative apps with Socket.IO, AI-powered med
 
 ---
 
-### [SyncFlow](https://github.com/prathmesh-git/SyncFlow) — Real-Time Collaborative Task Manager · [Live Demo](https://sync-flow-seven.vercel.app)
-> Kanban-style task board with real-time sync, conflict detection, and smart workload assignment.
-
-- Real-time multi-user collaboration via **Socket.IO** — live task updates across all connected clients
-- **Conflict detection system** — prevents data overwrites when multiple users edit the same task simultaneously
-- **Smart Assign** algorithm — automatically distributes tasks to the user with the fewest active items
-- Full activity log tracking task creation, updates, deletions, and assignments in real time
-- Deployed: frontend on **Vercel**, backend on **Render**
-
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `DnD Kit` `Vercel` `Render`
-
----
-
 ### [Linux Administration Toolkit](https://github.com/prathmesh-git/linux-admin-toolkit)
 > A Bash-based Linux administration toolkit built on Red Hat Enterprise Linux, combining common sysadmin tasks into a single menu-driven CLI.
 
@@ -93,6 +80,19 @@ My recent work spans real-time collaborative apps with Socket.IO, AI-powered med
 - Built entirely with core Linux/RHEL tools: `useradd`, `userdel`, `groupadd`, `usermod`, `df`, `du`, `tar`, `grep`, `awk`, `sed`
 
 `Bash` `Red Hat Enterprise Linux` `Linux Administration` `Shell Scripting`
+
+---
+
+### [SyncFlow](https://github.com/prathmesh-git/SyncFlow) — Real-Time Collaborative Task Manager · [Live Demo](https://sync-flow-seven.vercel.app)
+> Kanban-style task board with real-time sync, conflict detection, and smart workload assignment.
+
+- Real-time multi-user collaboration via **Socket.IO** — live task updates across all connected clients
+- **Conflict detection system** — prevents data overwrites when multiple users edit the same task simultaneously
+- **Smart Assign** algorithm — automatically distributes tasks to the user with the fewest active items
+- Full activity log tracking task creation, updates, deletions, and assignments in real time
+- Deployed: frontend on **Vercel**, backend on **Render**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `DnD Kit` `Vercel` `Render`
 
 ---
 
