@@ -1,15 +1,15 @@
 # Prathmesh Pimpalshende
 
-**Full-Stack Developer · MERN Stack · AI Integration**  
+**Full-Stack Developer · MERN Stack · AI Integration · Exploring DevOps & Cloud**  
 Nagpur, India · [LinkedIn](https://www.linkedin.com/in/prathmesh-pimpalshende/) · [Email](mailto:prathmpimpalshende@gmail.com)
 
 ---
 
 ## About
 
-Final-year Computer Science student at GH Raisoni University (2022–2026), building full-stack web applications that go beyond CRUD. I work across the MERN stack, integrate AI APIs into production workflows, and ship projects with real deployments — not just local demos.
+Final-year Computer Science student at GH Raisoni University (2022–2026), building full-stack web applications that go beyond CRUD. I work across the MERN stack, integrate AI APIs into production workflows, and ship projects with real deployments — not just local demos. I'm also expanding into DevOps, cloud, and Linux system administration.
 
-My recent work spans real-time collaborative apps with Socket.IO, AI-powered media analysis tools using LLMs and Whisper, and containerized deployments via Docker and Render. I care about architecture, clean code, and building things that actually solve problems.
+My recent work spans real-time collaborative apps with Socket.IO, AI-powered media analysis tools using LLMs and Whisper, containerized deployments via Docker and Render, and Bash-based Linux administration tooling. I care about architecture, clean code, and building things that actually solve problems.
 
 ---
 
@@ -40,8 +40,11 @@ My recent work spans real-time collaborative apps with Socket.IO, AI-powered med
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-**DevOps & Tools**  
+**DevOps, Cloud & Linux**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -77,6 +80,19 @@ My recent work spans real-time collaborative apps with Socket.IO, AI-powered med
 - Deployed: frontend on **Vercel**, backend on **Render**
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `DnD Kit` `Vercel` `Render`
+
+---
+
+### [Linux Administration Toolkit](https://github.com/prathmesh-git/linux-admin-toolkit)
+> A Bash-based Linux administration toolkit built on Red Hat Enterprise Linux, combining common sysadmin tasks into a single menu-driven CLI.
+
+- Modular scripts for **system monitoring**, **user & group management**, **disk monitoring**, **backups**, and **log analysis**
+- Automated `.tar.gz` backups with timestamped filenames and operation logging
+- Disk usage monitoring with configurable alerting at 80%+ usage
+- Log analyzer for searching, counting, and surfacing recent errors
+- Built entirely with core Linux/RHEL tools: `useradd`, `userdel`, `groupadd`, `usermod`, `df`, `du`, `tar`, `grep`, `awk`, `sed`
+
+`Bash` `Red Hat Enterprise Linux` `Linux Administration` `Shell Scripting`
 
 ---
 
@@ -149,6 +165,7 @@ CGPA: **7.91 / 10**
 
 - Advanced React patterns and state management
 - System design and scalable backend architecture
+- DevOps & cloud computing fundamentals
 - Data Structures & Algorithms in Java
 
 ---
@@ -164,7 +181,7 @@ CGPA: **7.91 / 10**
 
 ## Let's Connect
 
-I'm open to internships, full-stack roles, and interesting collaboration opportunities.
+I'm open to internships, full-stack roles, DevOps/cloud opportunities, and interesting collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-pimpalshende/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prathmpimpalshende@gmail.com)
