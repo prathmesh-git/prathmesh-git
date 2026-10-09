@@ -1,7 +1,7 @@
 # Prathmesh Pimpalshende
 
 **Full-Stack Developer · MERN Stack · AI Integration · Exploring DevOps & Cloud**  
-Nagpur, India · [LinkedIn](https://www.linkedin.com/in/prathmesh-pimpalshende/) · [Email](mailto:prathmpimpalshende@gmail.com)
+Pune, India · [LinkedIn](https://www.linkedin.com/in/prathmesh-pimpalshende/) · [Email](mailto:prathmpimpalshende@gmail.com)
 
 ---
 
